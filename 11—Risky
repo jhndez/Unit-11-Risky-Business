@@ -1,0 +1,19 @@
+*Resampling 
+
+**Which model had the best balanced accuracy score?
+     Naive Random Oversampling
+**Which model had the best recall score?
+    Naive Random Oversampling
+**Which model had the best geometric mean score?
+        SMOTE Oversampling
+
+*Ensemble
+
+**Which model had the best balanced accuracy score?
+    Easy Ensemble AdaBoost Classifier 
+**Which model had the best recall score?
+     Easy Ensemble AdaBoost Classifier
+**Which model had the best geometric mean score?
+    Easy Ensemble AdaBoost Classifier
+**What are the top three features?
+Precision, Recall, and F1. 
