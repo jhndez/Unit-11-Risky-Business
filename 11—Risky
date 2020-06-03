@@ -16,4 +16,4 @@
 **Which model had the best geometric mean score?
     Easy Ensemble AdaBoost Classifier
 **What are the top three features?
-Precision, Recall, and F1. 
+loan amount, interest rate, installment.  
